@@ -16,8 +16,6 @@ app = Dash(__name__)
 
 # Define the layout
 background_color = '#E6E6FA'
-
-# Layout
 app.layout = html.Div(
     style={'backgroundColor': background_color, 'padding': '20px'},
     children=[
