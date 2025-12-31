@@ -16,7 +16,7 @@ app = Dash(__name__)
 
 # Layout
 app.layout = html.Div(
-    style={'backgroundColor': '#E6E6FA', 'padding': '40px', 'fontFamily': 'Arial, sans-serif'},
+    style={'backgroundColor': '#DCD0E5', 'padding': '40px', 'fontFamily': 'Arial, sans-serif'},
     children=[
         html.H1(
             "Pink Morsel Sales Visualizer",
